@@ -1,3 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Rubik+Microbe&family=Rubik+Puddles&display=swap');
 body {
-  font-family: Arial, Helvetica, sans-serif;
+  font-family: 'Rubik Puddles', cursive;
+  color:darkorchid;
+  background-color:rgb(217, 235, 255)
+}
+input[type="text"] {
+  font-family: 'Rubik Microbe', cursive;
+}
+button {
+  font-family: 'Rubik Puddles', cursive;
 }
